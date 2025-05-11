@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Application BubbleAndGrid2d</Name>
+		<Assembly>BubbleAndGrid2d.dll</Assembly>
+		<FullClassName>BubbleAndGrid2d.App</FullClassName>
+		<ClientId>57415973-A412-4AE2-95DA-2C7AA5FF5BC8</ClientId>
+		<VendorId>DUNGTRAN</VendorId>
+		<VendorDescription>DUNG TRAN</VendorDescription>
+	</AddIn>
+</RevitAddIns>
